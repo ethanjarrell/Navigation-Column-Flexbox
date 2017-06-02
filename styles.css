@@ -1,0 +1,225 @@
+.vertical-nav-bar {
+  height: 75vh;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.box1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #99a6b3;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box1:hover {
+  transition: all .25s ease;
+  margin-left: 10%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  height: 50px;
+  width: 120px;
+  background-color: #b6c7d8;
+}
+
+.box1:not(:hover){
+  transition: all .5s ease;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #99a6b3;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box2:hover {
+  transition: all .25s ease;
+  margin-left: 10%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  height: 50px;
+  width: 120px;
+  background-color: #b6c7d8;
+}
+
+.box2:not(:hover){
+  transition: all .5s ease;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #99a6b3;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box3:hover {
+  transition: all .25s ease;
+  margin-left: 10%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  height: 50px;
+  width: 120px;
+  background-color: #b6c7d8;
+}
+
+.box3:not(:hover){
+  transition: all .5s ease;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #99a6b3;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box4:hover {
+  transition: all .25s ease;
+  margin-left: 10%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  height: 50px;
+  width: 120px;
+  background-color: #b6c7d8;
+}
+
+.box4:not(:hover){
+  transition: all .5s ease;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #99a6b3;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box5:hover {
+  transition: all .25s ease;
+  margin-left: 10%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  height: 50px;
+  width: 120px;
+  background-color: #b6c7d8;
+}
+
+.box5:not(:hover){
+  transition: all .5s ease;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #99a6b3;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box6:hover {
+  transition: all .25s ease;
+  margin-left: 10%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  height: 50px;
+  width: 120px;
+  background-color: #b6c7d8;
+}
+
+.box6:not(:hover){
+  transition: all .5s ease;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #99a6b3;
+  font-family: sans-serif;
+  font-weight: bold;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
+
+.box7:hover {
+  transition: all .25s ease-in-out;
+  margin-left: 10%;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  height: 50px;
+  width: 120px;
+  background-color: #b6c7d8;
+  border-radius: 5px;
+}
+
+.box7:not(:hover){
+  transition: all .5s ease;
+  border-radius: 8px;
+  width: 100px;
+  height: 45px;
+  background-color: slategray;
+}
